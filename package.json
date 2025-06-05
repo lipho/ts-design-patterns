@@ -1,0 +1,10 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "scripts": {
+    "parcel:maps": "npx parcel maps/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
