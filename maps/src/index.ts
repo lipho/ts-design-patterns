@@ -1,1 +1,3 @@
-console.log('Hello World');
+import User from "./User";
+
+console.log(new User());
